@@ -1,4 +1,7 @@
 import { Link } from 'react-router-dom';
+
+import '../css/estilo.css'
+
 function Nav() {
   return (
     <>
